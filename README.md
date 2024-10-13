@@ -1,5 +1,5 @@
 # FourierSeries
-dependences: matplotlib and numpy.
+Dependences: matplotlib and numpy.
 
 O código possui apenas uma classe, a SFourier, que recebe como argumento uma função (expressão matemática).
 
